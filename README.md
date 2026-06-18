@@ -24,5 +24,6 @@ Research Interests:
 - Domain Generalization
 
 🌐 Personal Website: https://kintomzi.github.io/
+
 📧 Email: zkintom@gmail.com
 
