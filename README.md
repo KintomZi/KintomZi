@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **KintomZi/KintomZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+I'm a Graduate Student focusing on LiDAR Remote Sensing.
+
+Research Interests:
+- Point Cloud Processing
+- LiDAR Semantic Segmentation
+- Remote Sensing
+- Deep Learning
+- Domain Generalization
+
+🌐 Personal Website: https://kintomzi.github.io/
+📧 Email: zkintom@gmail.com
+
