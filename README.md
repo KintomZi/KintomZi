@@ -23,7 +23,7 @@ Research Interests:
 - Deep Learning
 - Domain Generalization
 
-🌐 Personal Website: https://kintomzi.github.io/
+🌐 Website: https://kintomzi.github.io/
 
 📧 Email: zkintom@gmail.com
 
